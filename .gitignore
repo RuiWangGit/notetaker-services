@@ -1,2 +1,4 @@
 target
 notetaker-service.log
+.idea
+**/*.iml
